@@ -1,6 +1,7 @@
-<a href="https://nimakarimi.me" target="_blank">
-  <h2 align="left">  Hi 👋! My name is Nima and I'm a full-stack developer</h2>
-</a>
+<h2 align="left">
+  <a href="https://nimakarimi.me" target="_blank">Hi 👋! My name is Nima and I'm a full-stack developer</a>
+</h2>
+
 
 ###
 
@@ -49,7 +50,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="30" alt="kubernetes logo"  />
 </div>
 
-###
 
 <div align="left">
   <a href="https://www.youtube.com/@iamNimaKarimi" target="_blank">
@@ -65,10 +65,10 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
-###
+
 
 <br clear="both">
+<hr />
 
 <img src="https://raw.githubusercontent.com/nimakarimi97/nimakarimi97/output/snake.svg" alt="Snake animation" />
 
-###
